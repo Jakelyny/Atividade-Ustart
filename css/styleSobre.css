@@ -1,0 +1,63 @@
+.explicacao {
+    width: 700px;
+    padding: 40px;
+    display: inline-block;
+}
+
+div{
+    align-items: center;
+}
+
+h2 {
+    margin-top: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 20px;
+    font-family: 'Karma', serif;
+}
+
+div p {
+    text-align: justify;
+    padding: 10px;
+    font-size: 26px;
+    font-family: 'Karma', serif;
+}
+
+.enfeite{
+    font-size: 30px;
+}
+
+.imagemKaioh {
+    width: 800px;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer a {
+    text-transform: uppercase;
+    color: #F1B92A;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+footer a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+    background-color: #2d435c;
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
