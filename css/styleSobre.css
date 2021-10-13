@@ -21,7 +21,7 @@ h2 {
 div p {
     text-align: justify;
     padding: 10px;
-    font-size: 26px;
+    font-size: 22px;
     font-family: 'Karma', serif;
 }
 
@@ -30,7 +30,7 @@ div p {
 }
 
 .imagemKaioh {
-    width: 800px;
+    width: 500px;
     padding: 10px;
     display: inline-block;
 }
